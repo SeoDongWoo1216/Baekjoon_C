@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2839_설탕배달.c">
+    <ClCompile Include="1978_소수찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
